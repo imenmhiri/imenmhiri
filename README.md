@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Data Engineering Student passionate about exploring the vast possibilities of technology and innovation. I love working with programming languages like Java, and I enjoy diving into topics such as algorithms, machine learning, devops and web development. I am constantly learning new concepts and skills to deepen my understanding of this dynamic field.<br>I'm currently in my third year of engineering, specializing in Data Engineering at Faculty of Sciences  Sfax, and I hold a Bachelor's degree in Sciences Informatiques  from Faculty of Sciences Sfax.</p>
+<p align="left">I'm a Data Engineering Student passionate about exploring the vast possibilities of technology and innovation. I love working with programming languages like Java, and I enjoy diving into topics such as algorithms, machine learning, devops and web development. I am constantly learning new concepts and skills to deepen my understanding of this dynamic field.<br>I'm currently in my third year of engineering, specializing in Data Engineering at Faculty of Sciences  Sfax, and I hold a Bachelor's degree in computer science from Faculty of Sciences Sfax.</p>
 
 ###
 
