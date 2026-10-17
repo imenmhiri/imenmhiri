@@ -3,9 +3,9 @@
 **Computer Engineer — Data Engineering | AI | DevOps**
 
 Computer Engineering graduate (Faculty of Sciences of Sfax, Tunisia), specialized in Data Engineering.
-I build streaming data pipelines, train and ship ML models, and automate everything in between with Docker and CI/CD.
+I build streaming data pipelines, train and ship ML models and automate everything in between with Docker and CI/CD.
 
-What I enjoy sits at the seam between systems: getting data in, making it trustworthy, turning it into a model or an API, and shipping it without manual steps.
+What I enjoy sits at the seam between systems: getting data in, making it trustworthy, turning it into a model or an API and shipping it without manual steps.
 
 📍 Sfax, Tunisia
 📫 [mhiriimen28@gmail.com](mailto:mhiriimen28@gmail.com) · [LinkedIn](https://www.linkedin.com/in/imen-mhiri-3b8b071a6/)
