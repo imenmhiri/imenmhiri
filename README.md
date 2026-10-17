@@ -10,7 +10,7 @@ What I enjoy sits at the seam between systems: getting data in, making it trustw
 📍 Sfax, Tunisia
 📫 [mhiriimen28@gmail.com](mailto:mhiriimen28@gmail.com) · [LinkedIn](https://www.linkedin.com/in/imen-mhiri-3b8b071a6/)
 
-Open to opportunities in **Data Engineering, MLOps, Backend or DevOps**.
+Open to opportunities in **Data Engineering, MLOps, Backend, DevOps or Infrastructure**.
 
 ---
 
@@ -93,9 +93,10 @@ JEE bookstore front end built with Java servlets, HTML, CSS and Bootstrap.
 | **Data Engineering** | Kafka, Flink, Airflow, HDFS, SQL, ETL/ELT, data validation |
 | **AI / ML** | Python, Scikit-learn, TensorFlow, Keras, NLP, LLM integration, MLflow |
 | **Backend & Web** | Java, C#, C, Python, TypeScript · Spring Boot, ASP.NET Core, FastAPI, Angular, Next.js |
-| **DevOps** | Docker, Docker Compose, Azure DevOps, Jenkins, Git, CI/CD, Linux, SSH |
+| **DevOps & CI/CD** | Docker, Docker Compose, Azure DevOps, Jenkins, Git, Maven |
+| **Infrastructure & Systems** | Linux server administration, user & access management, SSH, service deployment and monitoring |
 | **Databases** | PostgreSQL, MySQL, SQL Server, MongoDB, Supabase |
-| **Tools & Methods** | Postman, Swagger, Maven, Jira, Agile |
+| **Tools & Methods** | Postman, Swagger, Jira, Agile |
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
